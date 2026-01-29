@@ -1,7 +1,7 @@
 
 Hello capsuleer o7
-
-
+This is a proof of concept app to practice with eve ESI :D its green but i learn a lot
+search in the everdaygrowing content creator database, follow de isk based subscription workflow and enjoy conecting with your favorite creators 
 
 <img width="1400" height="894" alt="image" src="https://github.com/user-attachments/assets/f2b684ff-b9f5-4de9-95ee-aed2e7e61d35" />
 
