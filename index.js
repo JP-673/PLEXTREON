@@ -315,7 +315,7 @@ const CreatorTab = () => `
         <header class="flex justify-between items-start">
             <div>
                 <h2 class="text-6xl font-black italic tracking-tighter uppercase text-white">Studio</h2>
-                <p class="text-[10px] text-blue-400 font-bold uppercase tracking-[0.3em] mt-2 italic">Verified PLEXtreon Revenue</p>
+                <p class="text-[10px] text-blue-400 font-bold uppercase tracking-[0.3em] mt-2 italic">Verified isktreon Revenue</p>
             </div>
         </header>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
