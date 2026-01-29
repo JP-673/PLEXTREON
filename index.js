@@ -1,9 +1,4 @@
 
-/**
- * PLEXtreon - EVE Online Dual-Role Patronage Platform
- * Lead Architect: Senior Software Engineer
- */
-
 // --- SSO CONFIGURATION ---
 const DEFAULT_CLIENT_ID = "4ad5f68b3968485fba0a322dbd79b990";
 const REDIRECT_URI = "https://jp-673.github.io/ISKTREON/";
