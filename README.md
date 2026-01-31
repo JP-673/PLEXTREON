@@ -10,5 +10,3 @@ search in the everdaygrowing content creator database, follow de isk based subsc
 <img width="612" height="536" alt="image" src="https://github.com/user-attachments/assets/0a82c47b-4890-46e8-a963-8d70f9ff2b20" />
 
 
-
-<img width="1684" height="711" alt="image" src="https://github.com/user-attachments/assets/3e9a2332-9e74-4da9-8c25-a7863d1ffab8" />
